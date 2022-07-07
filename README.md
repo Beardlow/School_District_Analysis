@@ -18,7 +18,7 @@ This project was brought on as a request for further insights into the performan
 
 ![District Summary with THS Ninth Graders](https://github.com/Beardlow/School_District_Analysis/blob/main/district_with_THS.png)
 
-#### chool District Summary Without THS 9th Graders
+####School District Summary Without THS 9th Graders
 
 ![District Summary Without THS Ninth Graders](https://github.com/Beardlow/School_District_Analysis/blob/main/district_without_THS.png)
 
