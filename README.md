@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##P roject Overview
+## Project Overview
 
 This project was brought on as a request for further insights into the performance of schools in the Py City District based on current records of both school metrics and student metrics.
 
@@ -67,5 +67,13 @@ This project was brought on as a request for further insights into the performan
 ![School Type Results](https://github.com/Beardlow/School_District_Analysis/blob/main/School_type_results.png) 
 
 ## Analysis Summary
-
+  
+  This analysis shows that even though the Thomas High School ninth graders were removed, the effects on the District and the By School summaries remain relatively unchanged. The changes in the analysis results are almost all related to THS specifically.
+  
+  Markup : *Changes Seen
+              *THS overall math passing percentages were reduced by .1%
+              *THS overall reading passing percentages were reduced by .3%
+              *THS overall Passing Percentage was reduced by .3%
+              *THS average reading scores were increased by .05%
+              *THS average math scores were reduced by .06%
   
