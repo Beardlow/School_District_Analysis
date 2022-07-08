@@ -70,10 +70,10 @@ This project was brought on as a request for further insights into the performan
   
   This analysis shows that even though the Thomas High School ninth graders were removed, the effects on the District and the By School summaries remain relatively unchanged. The changes in the analysis results are almost all related to THS specifically.
   
-  *Changes Seen
-    *THS overall math passing percentages were reduced by .1%
-    *THS overall reading passing percentages were reduced by .3%
-    *THS overall Passing Percentage was reduced by .3%
-    *THS average reading scores were increased by .05%
-    *THS average math scores were reduced by .06%
+  * Changes Seen
+    * THS overall math passing percentages were reduced by .1%
+    * THS overall reading passing percentages were reduced by .3%
+    * THS overall Passing Percentage was reduced by .3%
+    * THS average reading scores were increased by .05%
+    * THS average math scores were reduced by .06%
   
